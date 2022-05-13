@@ -6,7 +6,7 @@ import numpy as np
 from tkinter import messagebox
 import sys
 
-from sqlalchemy import true
+
 
 
 
